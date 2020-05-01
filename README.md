@@ -1,1 +1,1 @@
-## Stencil code for CSCI 1300 React lab
+## React app created to locate servers in Brown's CIT
